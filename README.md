@@ -15,7 +15,7 @@ A modern, responsive portfolio website built with pure HTML, CSS, and JavaScript
 
 1. **Clone the repository**:
    ```bash
-   git clone [https://github.com/your-username/portfolio-template.git](https://github.com/jbhai8058/personal_portfolio.git)
+   git clone (https://github.com/jbhai8058/personal_portfolio.git)
 
 Credits 🙏
 Developed by Muhammad Junaid Rehman Siddiqui
